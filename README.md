@@ -1,5 +1,3 @@
-# basictweepy
-
 Simple Basic Tweepy for Streaming API
 ================
 The Twitter Streaming API is designed to deliver limited volumes of data via two main types of realtime data streams: sampled streams and filtered streams. Many users like to use the Streaming API because the streaming nature of the data delivery means that the data is delivered closer to realtime than it is from the Search API. But the Streaming API wasn’t designed to deliver full coverage results and so has some key limitations for enterprise customers. 
